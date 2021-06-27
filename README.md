@@ -6,7 +6,7 @@ For this project a data set from Amazon reviews for video games was selected for
 
 ## Results
 
-![image](https://user-images.githubusercontent.com/78937719/123558028-cf01e080-d759-11eb-84f5-56d9ec220f25.png)
+![image](https://user-images.githubusercontent.com/78937719/123558519-4e90af00-d75c-11eb-8d40-f4e8c6774ed4.png)
 
 ### How many Vine Reviews and non-Vine reviews were there?
 
